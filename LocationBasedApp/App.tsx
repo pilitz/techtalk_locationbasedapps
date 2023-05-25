@@ -63,7 +63,6 @@ const App = () => {
               fastestInterval: 2000, // fastest interval to get location
               //showLocationDialog: true, // show location dialog when location is off
               //forceRequestLocation: true, // request location even if location services are disabled
-              //forceLocationManager: true, // force use of location manager instead of google play services
             },
           );
         } else {
